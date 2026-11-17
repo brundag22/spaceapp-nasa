@@ -1,6 +1,0 @@
-{
-  "name": "AstroCare",
-  "description": "Aerospace biomedical telemetry, real-time QRS waveform diagnostics, anatomical anomaly mapping, and clinical mission control.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

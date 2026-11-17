@@ -1,0 +1,1 @@
+SQL migrations are ordered, additive, and tracked in `schema_migrations`. The managed development and published application share one MySQL database. Do not use destructive schema changes without explicit approval; seed logic must be idempotent and preserve user-edited records.
